@@ -316,81 +316,6 @@ _Puede visitar el tutorial [`💛 GataBot-MD ~ BoxMine`](https://youtu.be/Ko019w
 - [x] **¿Cómo puedo crear una cuenta en BoxMine?**<br>
 _Puede ver esa información [`Aquí 👈`](https://github.com/GataNina-Li/GataBot-MD/#-boxminehost)_
 
-- [x] **¿Cómo puedo actualizar?**<br>
-_Detener el servidor con el botón `STOP` luego ir a la pestaña `FILES` y descargar el archivo `database.json` dicho archivo es donde se almacena el progreso del Bot, luego de hacer el respaldo debe de eliminar todos los archivos y carpetas de `FILES`, luego ir a la pestaña `SETTINGS` y usar el Botón `REINSTALL SERVER` después espera un momento y cuando aparezca información del servidor ir a la pestaña `FILES` para agregar el archivo `database.json` que respaldó, luego guardar los cambios ir a la pestaña `CONSOLE` y usar el Botón `RESTART`. De ese modo se actualizará el Bot (Cabe recalcar que se borrará las configuraciones que hizo en `config.js` por lo que si quiere volver agregar la información deberá de editar dicho archivo antes de usar `RESTART`)._
-
-- [x] **¿Cómo puedo obtener un nuevo código QR?**<br>
-_Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBotSession` guarde los cambios y luego ir a la pestaña `CONSOLE` y tendrá un nuevo código QR de debe de escanear._
-
-- [x] _Si tiene más dudas puede decirlo por el [`🟣 Servidor de Discord`](https://discord.gg/84qsr4v)_
-</details>
-
-----
-### SOBRE GATABOT ~ GB-GLOBAL
-<details>
-<summary><b>Objetivo</b></summary><br>
-
-  - [x] _Proporcionar un Bot funcional para WhatsApp que ofrezca una amplia gama de funciones, compatibilidad con múltiples idiomas, automatización y una alta eficiencia en su desempeño._
-  - [x] _El Bot estaría diseñado para brindar una experiencia de usuario intuitiva y accesible, permitiendo a los usuarios realizar diversas tareas sin la necesidad de salir de la aplicación de WhatsApp._
-  - [x] _Proporcionar una herramienta que sea útil para una amplia audiencia, al mismo tiempo que ofrezca una solución efectiva y sencilla para las necesidades cotidianas en el uso de WhatsApp._
-
-</details>
-
-<details>
-<summary><b>Funcionamiento</b></summary><br>
-
-  - [x] _GataBot utiliza la utilidad de Javascript y Shell para crear un código altamente funcional que permite gestionar la compatibilidad con WhatsApp._
-  - [x] _Con el uso de la biblioteca de código abierto Baileys, GataBot establece una conexión directa con la aplicación de WhatsApp, lo que permite una experiencia de usuario fluida._
-  - [x] _Se utiliza fuentes externas, APIs, imágenes, videos y documentos en línea para proporcionar una herramienta auténtica y completa que solventa una amplia gama de necesidades dentro de WhatsApp. Con estas características, los usuarios pueden disfrutar de una experiencia de usuario mejorada y eficiente al utilizar GataBot._
-
-</details>
-
-<details>
-<summary><b>Privacidad</b></summary><br>
-
-  - [x] _En GataBot, la seguridad y privacidad de los usuarios son una prioridad fundamental. El código del Bot está diseñado para ser seguro tanto para el propietario del Bot como para los usuarios que interactúan con él._
-  - [x] _En lo que respecta a la recopilación de datos, GataBot solo recopila información pública, como el nombre de usuario, la descripción y la foto de perfil, con el único propósito de mantener el progreso del usuario en el Bot o identificar valores necesarios para realizar las funciones del Bot._
-  - [x] _El código de GataBot es completamente público y puede ser revisado detalladamente sin ningún inconveniente. Con estas características, los usuarios pueden estar seguros de que su información y privacidad están protegidas al interactuar con GataBot._
-
-</details>
-
-<details>
-<summary><b>Edición & Material</b></summary><br>
-
-  - [x] _GataBot está diseñado para ser altamente personalizable, por lo que si tienes conocimientos previos de código, puedes realizar modificaciones libremente en el código del Bot. Sin embargo, aunque el código es público y editable, por favor no olvides mencionar los créditos correspondientes para que GataBot siga recibiendo más novedades y mejoras en el futuro._
-  - [x] _La personalización del Bot puede hacerse tanto a nivel de código como a través de herramientas de configuración, dependiendo de la plataforma o framework que se esté utilizando._  
-  - [x] _En cuanto al material que contiene GataBot, los usuarios pueden esperar encontrar una amplia variedad de contenido, incluyendo memes, inteligencia artificial que depende del PROMPT que reciba, contenido para adultos (quedando en el juicio del usuario asumir si tiene la edad suficiente para comprender dicho contenido), información que cambia dependiendo de la solicitud del usuario, audios y stickers. Por favor, ten en cuenta que nos reservamos el derecho de juzgar dicho contenido y tomar las medidas necesarias para mantener un ambiente seguro y apropiado en el uso de GataBot._
-
-</details>
-
-<details>
-<summary><b>Términos de uso</b></summary><br>
-
-  - [x] _Es importante mencionar que el uso del Bot es bajo la responsabilidad del usuario, y que el propietario del Bot no se hace responsable del uso indebido que se pueda hacer de él._
-  - [x] _Es recomendable establecer restricciones claras sobre el tipo de uso que se puede hacer del Bot._
-  - [x] _Es importante mencionar que el Bot no está diseñado para cometer spam, phishing u otros tipos de actividades maliciosas, y que su uso con estos fines está prohibido._
-
-</details>
-
-<details>
-<summary><b>Recomendaciones</b></summary><br>
-
-  - [x] _Es importante mencionar que se recomienda tener una buena conexión a Internet, no solo para una experiencia de usuario más fluida, sino también para garantizar un correcto funcionamiento del Bot._
-  - [x] _Es recomendable tener suficiente espacio de almacenamiento libre para el Bot, ya que esto puede afectar su capacidad para procesar y almacenar datos. Tener una memoria RAM mínima de 3 GB, ya que esto puede ayudar a garantizar una experiencia de usuario fluida y evitar que el Bot se bloquee o se ralentice._
-  - [x] _Es importante mencionar que se recomienda usar el WhatsApp Messenger para el Bot, ya que esto puede garantizar una mayor flexibilidad en cuanto a la compatibilidad con diferentes dispositivos y sistemas operativos._
-  - [x] _Es recomendable tener en cuenta que el Bot puede funcionar de manera estable en un máximo de 30 grupos considerando las características anteriores._
-  - [x] _Es importante mencionar que el Bot funciona aún si el WhatsApp no tiene Internet._
-  - [x] _Si encuentra alguna falla de visibilidad de mensajes, se recomienda volver a escanear el código QR para garantizar una conexión correcta entre el Bot y el WhatsApp._
-
-</details>
-
-<details>
-<summary><b>Actualizaciones y cambios</b></summary><br>
-
-  - [x] _GataBot está en constante evolución y mejora, cada actualización busca solucionar errores, mejorar la eficiencia de las funciones existentes, agregar nuevas funciones y optimizar los recursos para una experiencia más fluida. Le recomendamos que se mantenga actualizado con las últimas versiones para disfrutar de todas las mejoras y nuevas características que se implementen en el futuro. ¡Gracias por usar GataBot!_
-
-</details>
-
 ----
 ### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
 #### 🌐 Español  
@@ -404,11 +329,4 @@ _Use el botón `STOP` luego ir a la pestaña `FILES` y borrar la carpeta `GataBo
 ### 🌟 CREADORA 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
-### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
-</a>
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
 
