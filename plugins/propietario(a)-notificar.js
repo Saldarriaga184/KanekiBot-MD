@@ -7,7 +7,7 @@ let [_, code] = grupo.match(linkRegex) || []
 if ( users == 593968711217 || users == 593990058725 || users == 
 if (!text) return m.reply(`*Falta Texto*`) 
 let res = await conn.groupAcceptInvite(code)
-await conn.sendMessage(res, { text: text + ( users == 593968711217 ? '\n\n_atte. 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿_' : '' || users == 593990058725 ? '\n\n_atte. 𝘿.𝙀.𝙎.𝙉_𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝟭𝟳_' : ''  users == 524531173598 ? '\n\n_atte. 𝑨𝒛𝒂𝒎𝒊❤️_' : '' ), mentions: (await conn.groupMetadata(`${res}`)).participants.map(v => v.id) }, { quoted: fkontak })
+await conn.sendMessage(res, { text: text + ( users == 593968711217 ? '\n\n_atte. 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿_' : '' || users == 593990058725 ? '\n\n_atte. 𝘿.𝙀.𝙎.𝙉_𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝟭𝟳_' : ''  users ==// 524531173598// ? '\n\n_atte. 𝑨𝒛𝒂𝒎𝒊❤️_' : '' ), mentions: (await conn.groupMetadata(`${res}`)).participants.map(v => v.id) }, { quoted: fkontak })
 await m.reply(`✅ *MENSAJE ENVIADO CON ÉXITO* `)
 } catch (e) {
 await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeGB.smsMensError1(), `#reporte ${lenguajeGB['smsMensError2']()} *${usedPrefix + command}*`]], m)
