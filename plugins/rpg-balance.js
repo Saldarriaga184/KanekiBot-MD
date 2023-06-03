@@ -16,7 +16,7 @@ let d = `
 ${usedPrefix}buy *cantidad*
 ${usedPrefix}buyall *cantidad*
 
-*COMPRAR DIAMANTES CON GATACOINS*
+*COMPRAR DIAMANTES CON KANAKICOINS*
 ${usedPrefix}buy2 *cantidad*
 ${usedPrefix}buyall2 *cantidad*`
 conn.sendButton(m.chat, d, wm, [
