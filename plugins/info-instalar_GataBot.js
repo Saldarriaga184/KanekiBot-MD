@@ -15,7 +15,7 @@ const fkontak = {
 }
 
 let picture = './media/menus/Menu1.jpg'
-let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 🐈
+let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩 👾
 
 *━━━━━━━━━━━━━⬣*
 ✅ 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗥 𝗘𝗡 𝗕𝗢𝗫𝗠𝗜𝗡𝗘
@@ -45,8 +45,8 @@ pkg upgrade
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/GataNina-Li/GataBot-MD
-cd GataBot-MD
+git clone https://github.com/Saldarriaga184/KanakiBot-MD 
+cd KanakiBot-MD 
 npm install
 npm update
 npm start
@@ -55,7 +55,7 @@ npm start
 *━━━━━━━━━━━━━⬣*
 ✅ 𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝙍 𝙀𝙉 𝙃𝙀𝙍𝙊𝙆𝙐
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*_https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBot-MD_*
+*_https://heroku.com/deploy?template=https://github.com/Saldarriaga184/KanekiBot-MD*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
 *Añada lo siguente al Buildpack:*
 _https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git_
