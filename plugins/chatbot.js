@@ -15,7 +15,7 @@ conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
 if (/^destruirbot|autodestruirbot$/i.test(m.text) ) { //sem prefixo
     let teks = `
-${pickRandom([`Mi Creadora me trata muy mal 😭`])}
+${pickRandom([`Mi Creador me trata muy mal 😭`])}
 `.trim()
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})
 
