@@ -110,7 +110,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
+//Ejemplo: cd KanakiBot-MD
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
@@ -121,7 +121,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 termux-setup-storage
 ```
 ```bash
-apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD && yarn install && npm install && npm start
+apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/Saldarriaga184/KanakiBot-MD && cd KanakiBot-MD && yarn install && npm install && npm start
 ```
 > **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
 ------------------
@@ -135,7 +135,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/GataBot-MD-master/GataBot-MD-master 
+cd storage/downloads/KanakiBot-MD-master/kanakiBot-MD-master 
 yarn install
 npm install
 npm start
