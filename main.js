@@ -90,7 +90,7 @@ loadChatgptDB();
 
 /*------------------------------------------------*/
 
-global.authFile = `GataBotSession`
+global.authFile = `KanekiBotSession`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 const msgRetryCounterMap = MessageRetryMap => { }
 let { version } = await fetchLatestBaileysVersion();
@@ -105,11 +105,11 @@ getMessage: async (key) => {
 if (store) {
 const msg = await store.loadMessage(key.remoteJid, key.id)
 return msg.message || undefined }
-return { conversation: "hello, i'm GataBot-MD" }},   
+return { conversation: "hello, i'm KanekiBot" }},   
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['GataBot-MD','Edge','1.0.0'],
+browser: ['KanekiBot-MD,'Edge','1.0.0'],
 version   
 }       
        
@@ -117,7 +117,7 @@ version
 /*msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['GataBot-MD','Edge','107.0.1418.26'],
+browser: ['KanekiBot-MD,'Edge','107.0.1418.26'],
 version   
 }*/
 
@@ -143,7 +143,7 @@ return false })}
 
 function purgeSession() {
 let prekey = []
-let directorio = readdirSync("./GataBotSession")
+let directorio = readdirSync("./KanekiBotSession")
 let filesFolderPreKeys = directorio.filter(file => {
 return file.startsWith('pre-key-') || file.startsWith('session-') || file.startsWith('sender-') || file.startsWith('app-')
 })
