@@ -91,26 +91,26 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-MD/master/gata.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanekiBot-MD/master/gata.sh | bash
 ```
 ```js
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
 // Parámetros editables
 
 // REFERENCIA
-"wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanakiBot-MD/master/gata.sh | bash"
+"wget -O - https://raw.githubusercontent.com/Saldarriaga184/KanekiBot-MD/master/gata.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
 "wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/gata.sh | bash"
 ```
-#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/Saldarriaga184/KanakiBot-MD/blob/master/gata.sh)
+#### MODIFICAR ARCHIVO [`gata.sh`](https://github.com/Saldarriaga184/KanekiBot-MD/blob/master/gata.sh)
 ```js
 //LÍNEAS A MODIFICAR
 205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
+//Ejemplo: git clone https://github.com/Saldarriaga184/KanakiBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd KanakiBot-MD
+//Ejemplo: cd KanekiBot-MD
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
@@ -121,30 +121,30 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 termux-setup-storage
 ```
 ```bash
-apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/Saldarriaga184/KanakiBot-MD && cd KanakiBot-MD && yarn install && npm install && npm start
+apt update && apt upgrade && pkg install git nodejs ffmpeg imagemagick yarn && git clone https://github.com/Saldarriaga184/KanekiBot-MD && cd KanekiBot-MD && yarn install && npm install && npm start
 ```
 > **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
 ------------------
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`GataBot-MD ~ Archivos`](https://github.com/GataNina-Li/GataBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-GataBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+### [`KanekiBot-MD ~ Archivos`](https://github.com/Saldarriaga184/KanekiBot-MD/archive/refs/heads/master.zip)
+[![blog](https://img.shields.io/badge/Termux-KanekiBot-MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/UcWlyQ8u5HE)
 ```bash
 termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/KanakiBot-MD-master/kanakiBot-MD-master 
+cd storage/downloads/KanekiBot-MD-master/kanakiBot-MD-master 
 yarn install
 npm install
 npm start
 ```
 * #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 * #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
-> **Note** Guardar los archivos en la ubicación: storage/downloads/GataBot-MD-master/GataBot-MD-master   
+> **Note** Guardar los archivos en la ubicación: storage/downloads/KanekiBot-MD-master/KanekiBot-MD-master   
 ----
-### 🚀 USAR GATABOT 24/7 EN TERMUX 
+### 🚀 USAR KANEKIBOT 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta GataBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
