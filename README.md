@@ -135,7 +135,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/KanekiBot-MD-master/kanakiBot-MD-master 
+cd storage/downloads/KanekiBot-MD-master/kanekiBot-MD-master 
 yarn install
 npm install
 npm start
