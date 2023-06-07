@@ -21,10 +21,10 @@ ${eg}
 ┃ ${mime}`.trim()
 conn.reply(m.chat, caption, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨',
+title: '𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 | ꧁⃢⃟҉🇪🇨𝘿.𝙀.𝙎.𝙉_𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝟭𝟳༒⃢☠️꧂',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://github.com/GataNina-Li/GataBot-MD`}}})
+sourceUrl: `https://github.com/Saldarriaga184/KanekiBot-MD`}}})
   
 /*let info = `𝙈𝘼𝙔𝙊𝙍 𝘼 150 𝙈𝘽 𝙀𝙎 𝙋𝙊𝙎𝙄𝘽𝙇𝙀 𝙌𝙐𝙀 𝙉𝙊 𝙎𝙀 𝙀𝙉𝙑𝙄𝙀.
 
