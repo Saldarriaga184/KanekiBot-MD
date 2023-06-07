@@ -12,9 +12,20 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593968711217', '𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 💖👾', true],  
-  ['593990058725, '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['593990058725', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🍓', true],
+  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],  
+  ['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['5355772234', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🍓', true],
+  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾', true],
+  ['59894808483'],
+  ['584125778026'],
+  ['5492266613038'],
+  ['584121083781'],
+  ['593968585383'],
+  ['5214531173598'],
+  ['5217441745001'],
+  ['5214531106422'],
+  ['595986674310']
+]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -23,8 +34,8 @@ global.prems = ['593990058725']
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga KanakiBot-MD 
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga KanekiBot-MD 
+//Add the language you want KanekiBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
