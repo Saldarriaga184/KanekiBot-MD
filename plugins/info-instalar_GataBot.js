@@ -20,7 +20,7 @@ let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙆𝙖𝙣�
 *━━━━━━━━━━━━━⬣*
 ✅ 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗥 𝗘𝗡 𝗕𝗢𝗫𝗠𝗜𝗡𝗘
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝘽𝙤𝙭𝙈𝙞𝙣𝙚*
+*𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩 : 𝘽𝙤𝙭𝙈𝙞𝙣𝙚*
 *_https://youtu.be/Ko019wvu2Tc_*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
 _Pagina Oficial_ 
@@ -45,8 +45,8 @@ pkg upgrade
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/Saldarriaga184/KanakiBot-MD 
-cd KanakiBot-MD 
+git clone https://github.com/Saldarriaga184/KanekiBot-MD 
+cd KanekiBot-MD 
 npm install
 npm update
 npm start
