@@ -41,7 +41,7 @@ token: '9',
 curreyCode: 'IDR',
 totalCurrencyCode: '>〰<',
 totalAmount1000: '1000000',
-sellerJid: 'https://github.com/GataNina-Li/GataBot-MD',
+sellerJid: 'https://github.com/Saldarriaga184/KanekiBot-MD',
 thumbnail: fs.readFileSync('./src/avatar_contact.png')
 }}, {contextInfo: null, quoted: m})
 conn.relayWAMessage(prep)
