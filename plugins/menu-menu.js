@@ -86,30 +86,30 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⎔ *${lenguajeGB['smsBanUsers']()}* ➺ _${Object.entries(global.db.data.users).filter(user => user[1].banned).length}_
 
 ✨ *◜INFORMACIÓN DEL USUARIO◞* ✨
-⊜ *Tipo de registro »* ${user.registered === true ? `_${user.registroC === true ? 'Registro Completo 🗂️' : 'Registro Rápido 📑'}_` : '❌ _Sin registro_'}
-⊜ *Mi estado »* ${typeof user.miestado !== 'string' ? '❌ _' + usedPrefix + 'miestado_' : '_Me siento ' + user.miestado + '_'}
-⊜ *Registrado »* ${user.registered === true ? '✅' : '❌ _' + usedPrefix + 'verificar_'}
-⊜ *${lenguajeGB['smsBotonM7']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM7']().slice(1).toLowerCase()} »* ${user.premiumTime > 0 ? '✅' : '❌ _' + usedPrefix + 'pase premium_'}
+✪ *Tipo de registro »* ${user.registered === true ? `_${user.registroC === true ? 'Registro Completo 🗂️' : 'Registro Rápido 📑'}_` : '❌ _Sin registro_'}
+✪ *Mi estado »* ${typeof user.miestado !== 'string' ? '❌ _' + usedPrefix + 'miestado_' : '_Me siento ' + user.miestado + '_'}
+✪ *Registrado »* ${user.registered === true ? '✅' : '❌ _' + usedPrefix + 'verificar_'}
+✪ *${lenguajeGB['smsBotonM7']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM7']().slice(1).toLowerCase()} »* ${user.premiumTime > 0 ? '✅' : '❌ _' + usedPrefix + 'pase premium_'}
 
-⊜ *${lenguajeGB['smsBotonM5']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM5']().slice(1).toLowerCase()} »* ${role}
-⊜ *${lenguajeGB['smsBotonM6']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM6']().slice(1).toLowerCase()} »* ${emoji} || ${user.exp - min}/${xp}
-⊜ *${lenguajeGB['smsPareja']()}* ${pareja ? `\n*»* ${name} 💕 ${conn.getName(pareja)}` : `🛐 ${lenguajeGB['smsResultPareja']()}`}
+✪ *${lenguajeGB['smsBotonM5']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM5']().slice(1).toLowerCase()} »* ${role}
+✪ *${lenguajeGB['smsBotonM6']().charAt(0).toUpperCase() + lenguajeGB['smsBotonM6']().slice(1).toLowerCase()} »* ${emoji} || ${user.exp - min}/${xp}
+✪ *${lenguajeGB['smsPareja']()}* ${pareja ? `\n*»* ${name} 💕 ${conn.getName(pareja)}` : `🛐 ${lenguajeGB['smsResultPareja']()}`}
 ⊜ *Pasatiempo(s)* ➺ ${user.pasatiempo === 0 ? '*Sin Registro*' : user.pasatiempo + '\n'}
 
-⊜ *Experiencia ➟* ${exp} ⚡
-⊜ *Diamantes ➟* ${limit} 💎
-⊜ *KanakiCoins ➟* ${money} 👾
-⊜ *Tokens ➟* ${joincount} 🪙
+☯︎ *Experiencia ➟* ${exp} ⚡
+☯︎ *Diamantes ➟* ${limit} 💎
+☯︎ *KanakiCoins ➟* ${money} 👾
+☯︎ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE KanakiBot〕⬣*
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
+*╭━[ INFORMACIÓN DE KanekiBot]⬣*
+┃💫➺ _${usedPrefix}cuentasKanekiBot | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
 ┃💫➺ _${usedPrefix}listagrupos | grouplist_
 ┃💫➺ _${usedPrefix}estado | heygata | status_
 ┃💫➺ _${usedPrefix}infogata | infobot_
 ┃💫➺ _${usedPrefix}instalarbot | installbot_
-┃💫➺ _${usedPrefix}creadora | owner_
+┃💫➺ _${usedPrefix}creador | owner_
 ┃💫➺ _${usedPrefix}velocidad | ping_
 ┃💫➺ _Bot_ 
 ┃💫➺ _términos y condiciones_
@@ -117,7 +117,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en KanakiBot!!*
+┃ *Número en KanekiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -134,7 +134,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a KanekiBot-MD en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -191,7 +191,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con GataBot!!*
+┃ *Conversar con KanekiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -281,7 +281,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con KanekiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -603,7 +603,19 @@ ${readMore}
 ┃💎➺ _${usedPrefix}listapremium | listprem_
 ┃💎➺ _${usedPrefix}añadirdiamantes *@tag cantidad*_
 ┃💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
-┃💎➺ _${usedPrefix}añadirgatacoins *@tag cantidad*_
+┃💎➺ _${usedPrefix}añadirKanekicoins *@tag cantidad*_
+⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜
+⬜⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜
+⬜⬛⬜⬜⬜⬜⬜⬜⬜⬛⬜
+⬛⬜⬜⬛⬛⬜⬛⬛⬜⬜⬛
+⬛⬜⬛⬛⬛⬜⬛⬛⬛⬜⬛
+⬛⬜⬛⬛⬛⬜⬛⬛⬛⬜⬛
+⬛⬜⬛⬛⬜⬜⬜⬛⬛⬜⬛
+⬛⬜⬜⬜⬜⬛⬜⬜⬜⬜⬛
+⬜⬛⬜⬜⬜⬜⬜⬜⬜⬛⬜
+⬜⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜
+⬜⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜
+⬜⬜⬜⬛⬛⬛⬛⬛⬜⬜⬜
 *╰━━━━━━━━━━━━⬣*`.trim()
 await conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
