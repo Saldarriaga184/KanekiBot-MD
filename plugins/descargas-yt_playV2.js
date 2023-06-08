@@ -22,7 +22,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙆𝙖𝙣𝙖𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 | 𝘿.𝙀.𝙎.𝙉_𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝟭𝟳',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://github.com/Saldarriaga184/KanakiBot-MD`}}})
+sourceUrl: `https://github.com/Saldarriaga184/KanekiBot-MD`}}})
   
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text) 
 let json = await res.json()
