@@ -74,7 +74,7 @@ let lvl = level
 let emoji = Array.from(lvl.toString()).map((digit) => numberToEmoji[digit] || "❓").join("")
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
-
+ ┃✯╭──────────◆
  ┃✯༄●⃝𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-𝙈𝘿
  ┃✯-𝗛ᴏʟᴀ,➟${taguser} 
  ┃✯🍁᭢━━━━━━━━━᭥🍁᭢ 
