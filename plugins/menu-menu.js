@@ -101,36 +101,44 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⿴⃟ٍࣽ➤ *Kanekicoins ➟* ${money} 👾
 ⿴⃟ٍࣽ➤ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
-┃✯│⿴⃟ٍࣽ➤ _${usedPrefix}cuentasgatabot | cuentasgb_
-_${usedPrefix}gruposgb | grupos | groupgb_
-_${usedPrefix}donar | donate_
-_${usedPrefix}listagrupos | grouplist_
-_${usedPrefix}estado | heygata | status_
-_${usedPrefix}infogata | infobot_
-_${usedPrefix}instalarbot | installbot_
-_${usedPrefix}creadora | owner_
-_${usedPrefix}velocidad | ping_
-_Bot_ 
-_términos y condiciones_
+ ꨄ︎----- -------- -------  -----ꨄ︎
+ ╭─────────────◆ 
+ ┃✯🍂𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊̃𝙉 𝘿𝙀 𝙆𝘼𝙉𝙀𝙆𝙄𝘽𝙊𝙏🍂
+ ┃✯🍁᭢━━━━━━━━━᭥🍁᭢ 
+ ┃✯╭──────────◆  
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}cuentasgatabot | cuentasgb_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}gruposgb | grupos | groupgb_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}donar | donate_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}listagrupos | grouplist_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}estado | heygata | status_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}infogata | infobot_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}instalarbot | installbot_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}creadora | owner_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}velocidad | ping_
+ ┃✯│⿴⃟ٍࣽ➤_Bot_ 
+ ┃✯╰⿴⃟ٍࣽ➤_términos y condiciones_
 *╰━━━━━━━━━━━━⬣*
-
-*╭━〔 FUNCIÓN SUB BOT 〕━⬣*
-┃ *Ya puedes convertir tú*
-┃ *Número en KanekiBot!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💻 _${usedPrefix}serbot | jadibot_
-┃💻 _${usedPrefix}bots | listjadibots_
-┃💻 _${usedPrefix}detener | stop_
-┃💻 _${usedPrefix}bcbot_
+ ꨄ︎-----  -----  -----  -----  -----ꨄ︎ 
+ ╭─────────────◆ 
+ *┃✯🍂FUNCIÓN SUB BOT🍂*
+ ┃✯🍁᭢━━━━━━━━━᭥🍁᭢ 
+ ┃ *Ya puedes convertir tú*
+ ┃ *Número en KanekiBot!!*
+ ┃✯╭──────────◆  
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}serbot | jadibot_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}bots | listjadibots_
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}detener | stop_
+ ┃✯╰⿴⃟ٍࣽ➤ _${usedPrefix}bcbot_
 *╰━━━━━━━━━━━━⬣*
-
-*╭━〔 REPORTAR COMANDO 〕━⬣*
-┃ *Reporta con este comando de haber*
-┃ *Fallas para poder Solucionar!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃ 💌 _${usedPrefix}reporte *texto*_
-┃ 💌 _${usedPrefix}report *texto*_
+ꨄ︎-----  -----  -----  -----  -----ꨄ︎ 
+ ╭─────────────◆ 
+ *┃✯🍂REPORTAR COMANDO🍂*
+ ┃✯🍁᭢━━━━━━━━━᭥🍁᭢ 
+ ┃ *Reporta con este comando de haber*
+ ┃ *Fallas para poder Solucionar!!*
+ ┃✯╭──────────◆
+ ┃✯│⿴⃟ٍࣽ➤_${usedPrefix}reporte *texto*_
+ ┃✯╰⿴⃟ٍࣽ➤_${usedPrefix}report *texto*_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
