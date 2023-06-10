@@ -612,7 +612,9 @@ ${readMore}
 ┃💎➺ _${usedPrefix}añadirdiamantes *@tag cantidad*_
 ┃💎➺ _${usedPrefix}añadirxp *@tag cantidad*_
 ┃💎➺ _${usedPrefix}añadirgatacoins *@tag cantidad*_
-*╰━━━━━━━━━━━━⬣*`.trim()
+*╰━━━━━━━━━━━━⬣*
+ᴏᴡɴᴇʀ:D.E.S.N_OFFICIAL17  
+ ɴᴜᴍᴇʀᴏ:Wa.me/593990058725`.trim()
 await conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
