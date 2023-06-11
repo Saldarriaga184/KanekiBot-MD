@@ -109,9 +109,9 @@ return { conversation: "hello, i'm GataBot-MD" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['GataBot-MD,'Edge','1.0.0'],
+browser: ['GataBot-MD','Edge','1.0.0'],
 version   
-}       
+}              
        
 //getMessage: async (key) => ( opts.store.loadMessage(/** @type {string} */(key.remoteJid), key.id) || opts.store.loadMessage(/** @type {string} */(key.id)) || {} ).message || { conversation: 'Please send messages again' },   
 /*msgRetryCounterMap,
