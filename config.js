@@ -130,11 +130,11 @@ global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/DO5kkH1CMDwGkeiI0CCs13' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/KnmflygkQdKBPPfiFMmkIb' //Help
-global.nn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
+global.nn = 'https://chat.whatsapp.com/HHPofHadzZz5rCBiNerAcP' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/GpuqinGFZW29nmdRgghz2C' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/EQKEReB0RVl3wvkq7HkpqT' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/JCyjejaZRMcEehHY5MhgZh' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/HHPofHadzZz5rCBiNerAcP' //Grupo 5
 global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
