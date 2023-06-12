@@ -121,15 +121,15 @@ global.author = '𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17シ︎'
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.gt = '𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.yt = 'https://www.youtube.com/@d.e.s.n_offcial17'
+global.yt2 = 'https://youtu.be/GF54Za5JFPQ'
+global.ig = 'https://instagram.com/d.e.s.n_official17'
+global.md = 'https://github.com/Saldarriaga184/KanekiBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
+global.nna = 'https://chat.whatsapp.com/DO5kkH1CMDwGkeiI0CCs13' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/KnmflygkQdKBPPfiFMmkIb' //Help
 global.nn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
@@ -174,8 +174,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 : 𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17'
+global.igfg = '𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-𝙈𝘿
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
