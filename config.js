@@ -121,7 +121,7 @@ global.author = '𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17シ︎'
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙆𝙖𝙣𝙚𝙠𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.yt = 'https://www.youtube.com/@d.e.s.n_offcial17'
 global.yt2 = 'https://youtu.be/GF54Za5JFPQ'
 global.ig = 'https://instagram.com/d.e.s.n_official17'
