@@ -118,8 +118,8 @@ global.author = '𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17シ︎'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = '1.4.9'
-global.vsJB = '2.0'
+global.vs = "1.7.0"
+global.vsJB = "2.5 (Beta)"
 
 global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.yt = 'https://www.youtube.com/@d.e.s.n_offcial17'
