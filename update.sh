@@ -1,4 +1,4 @@
-# Código desarrollado por @D.E.S.N_OFFICIAL17 
+# Código desarrollado por @d.e.s.n_official17
   
 #!/data/data/com.termux/files/usr/bin/bash  
 BOT_DIR="KanekiBot-MD"  
